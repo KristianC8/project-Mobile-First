@@ -19,3 +19,9 @@
     width: 900px;
     margin: 0 auto;
 }
+
+
+.plans__slider-cards{
+    overflow-x:unset;
+
+}
