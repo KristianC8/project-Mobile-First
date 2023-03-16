@@ -1,0 +1,21 @@
+.header__title-text{
+    height: 14rem;
+}
+
+.product-detail__cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin: 32px auto 0 auto;
+}
+
+.product-detail__cards article{
+    width: 48%;
+}
+
+.exchange__table{
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+}
